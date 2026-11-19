@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.nbc
+*.nbi
+*.mat
+*.pkl
+*.xlsx
+*.zip
+Revision_Results*/
+Revision_Features/
+Datasets/
